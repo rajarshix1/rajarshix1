@@ -1,6 +1,9 @@
 ### Hi there 👋
 ![Rajarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajarshix1&count_private=true)
-
+- 🔭 I’m currently working with Node.js & Next.js
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
 
 <!--
 **rajarshix1/rajarshix1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
