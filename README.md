@@ -1,9 +1,9 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working with Node.js & Next.js
-- 🌱 I’m currently learning C++
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+I'm working as a Software Engineer.
+- 🔭 My preferred tech stack is Node.js, Express.js, Next.js & MongoDB
+- 🌱 I’m currently learning C#
+- 📫 How to reach me: https://www.linkedin.com/in/rajarshi-mandal-513981192/
+- ⚡ Fun fact: I dont love to code and I would prefer being a farmer in the Mountains.
 
 ![Rajarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajarshix1&count_private=true&theme=tokyonight)
 <!--
