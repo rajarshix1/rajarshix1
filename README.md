@@ -5,9 +5,9 @@ I'm working as a Software Engineer.
 - 📫 How to reach me: https://www.linkedin.com/in/rajarshi-mandal-513981192/
 - ⚡ Fun fact: I would prefer being a farmer in the Mountains.
 
-![Rajarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajarshix1&count_private=true&theme=tokyonight)
 <!--
 **rajarshix1/rajarshix1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Rajarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajarshix1&count_private=true&theme=tokyonight)
 
 Here are some ideas to get you started:
 
